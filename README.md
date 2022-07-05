@@ -5,4 +5,4 @@ Left Paddle - W and S keys
 
 Right Paddle - Up and Down arrow keys
 
-This is Udemy project
+This is a Udemy project
